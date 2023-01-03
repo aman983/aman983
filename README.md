@@ -7,3 +7,8 @@
 - 📫 How to reach me:  
   - [Linkedin Profile](www.linkedin.com/in/Aman-Shaikh-QC)
   - [Twitter](https://twitter.com/Aman81894910)                   
+
+<br></br>
+[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=aman983&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman983)](https://github.com/anuraghazra/github-readme-stats)
