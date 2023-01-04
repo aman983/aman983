@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/aman983/aman983/blob/main/Assets/source.gif" width = 900>
+  <img src="https://github.com/aman983/aman983/blob/main/Assets/Source.gif" width = 900>
 </p>
 
 
