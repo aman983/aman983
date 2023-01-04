@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Rust programming**
 - 💬 Ask me about **Quantum Computing || Embedded Programming || PCB Design & Prototyping || IOT**
 - 📫 How to reach me:  
-  <a href="www.linkedin.com/in/Aman-Shaikh-QC"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://linkedin.com/in/Aman-Shaikh-QC"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://twitter.com/Aman81894910"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   
 <br></br>
