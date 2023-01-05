@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on 
-  - **Quantum Computing**  <p align ="left"><img src="https://github.com/aman983/aman983/blob/main/Assets/Qiskit%20.gif" width = 200></p>
+  - **Quantum Computing**  <p align ="left"><img src="https://github.com/aman983/aman983/blob/main/Assets/Qiskit.gif" width = 200></p>
   - **Embedded Hardware.** <p align ="left"><img src="https://github.com/aman983/aman983/blob/main/Assets/CPU.gif" width = 200></p>
 - 🌱 I’m currently learning **Rust programming** <img src="https://github.com/aman983/aman983/blob/main/Assets/Rust.gif" width = 200>
 
