@@ -8,13 +8,13 @@
 🔭 I’m currently working on 
 </h2>
 <h3 align="center">
-<b><code>Quantum Computing</code> || <code>Qiskit</code> || <code>Cirq</code></b> 
+<b>  < <code>Quantum Computing</code> || <code>Qiskit</code> || <code>Cirq</code> > </b> 
 <h3>
 <div align ="center">
 <img src="https://github.com/aman983/aman983/blob/main/Assets/Qiskit.gif" width = 200>
 </div>
 <h3 align ="center">
-<code>Embedded Hardware</code> 
+< <code>Embedded Hardware</code> > 
 </h3>
 <div align ="center">
 <img src="https://github.com/aman983/aman983/blob/main/Assets/CPU.gif" width = 200>
@@ -26,7 +26,7 @@
 🌱 I’m currently learning 
 </h2>
 <h3 align ="center">
-<code>Rust programming</code>
+< <code>Rust programming</code> >
 </h3>
 <div align ="center">
 <img src="https://github.com/aman983/aman983/blob/main/Assets/Rust.gif" width = 300>
@@ -38,7 +38,7 @@
 💬 Ask me about 
 </h2>
 <h3 align ="center">
-<code>Quantum Computing</code> || <code>Embedded Programming</code> || <code>PCB Design & Prototyping</code> || <code>IOT</code>
+< <code>Quantum Computing</code> || <code>Embedded Programming</code> || <code>PCB Design & Prototyping</code> || <code>IOT</code> > 
 </h3>
 
 <br></br>
