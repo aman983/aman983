@@ -4,9 +4,10 @@
 
 
 
-- 🔭 I’m currently working on **Quantum Computing and Embedded Hardware.**
+- 🔭 I’m currently working on 
+  - **Quantum Computing**  <p align ="left"><img src="https://github.com/aman983/aman983/blob/main/Assets/Qiskit%20.gif" width = 200></p>
+  - **Embedded Hardware.** <p align ="left"><img src="https://github.com/aman983/aman983/blob/main/Assets/CPU.gif" width = 200></p>
 - 🌱 I’m currently learning **Rust programming** <img src="https://github.com/aman983/aman983/blob/main/Assets/Rust.gif" width = 200>
-<br>
 
 - 💬 Ask me about **Quantum Computing || Embedded Programming || PCB Design & Prototyping || IOT**
 - 📫 How to reach me:  
