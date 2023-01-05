@@ -2,19 +2,57 @@
   <img src="https://github.com/aman983/aman983/blob/main/Assets/Source.gif" width = 900>
 </p>
 
+<br></br>
 
+<h2 align="center">
+🔭 I’m currently working on 
+</h2>
+<h3 align="center">
+<b><code>Quantum Computing</code> || <code>Qiskit</code> || <code>Cirq</code></b> 
+<h3>
+<div align ="center">
+<img src="https://github.com/aman983/aman983/blob/main/Assets/Qiskit.gif" width = 200>
+</div>
+<h3 align ="center">
+<code>Embedded Hardware</code> 
+</h3>
+<div align ="center">
+<img src="https://github.com/aman983/aman983/blob/main/Assets/CPU.gif" width = 200>
+</div>
 
-- 🔭 I’m currently working on 
-  - **Quantum Computing**  <p align ="left"><img src="https://github.com/aman983/aman983/blob/main/Assets/Qiskit.gif" width = 200></p>
-  - **Embedded Hardware.** <p align ="left"><img src="https://github.com/aman983/aman983/blob/main/Assets/CPU.gif" width = 200></p>
-- 🌱 I’m currently learning **Rust programming** <img src="https://github.com/aman983/aman983/blob/main/Assets/Rust.gif" width = 200>
+<br></br>
 
-- 💬 Ask me about **Quantum Computing || Embedded Programming || PCB Design & Prototyping || IOT**
-- 📫 How to reach me:  
+<h2 align ="center">
+🌱 I’m currently learning 
+</h2>
+<h3 align ="center">
+<code>Rust programming</code>
+</h3>
+<div align ="center">
+<img src="https://github.com/aman983/aman983/blob/main/Assets/Rust.gif" width = 300>
+</div>
+
+<br></br>
+
+<h2 align ="center">
+💬 Ask me about 
+</h2>
+<h3 align ="center">
+<code>Quantum Computing</code> || <code>Embedded Programming</code> || <code>PCB Design & Prototyping</code> || <code>IOT</code>
+</h3>
+
+<br></br>
+
+<h2 align ="center">
+📫 How to reach me: 
+</h2>
+<div align ="center">
   <a href="https://linkedin.com/in/Aman-Shaikh-QC"><img src="https://github.com/aman983/aman983/blob/main/Assets/Linkedin.gif" width = 100></a>
   <a href="https://twitter.com/Aman81894910"><img src="https://github.com/aman983/aman983/blob/main/Assets/Twitter.gif" width = 100></a>
-  
+ 
 <br></br>
+
 [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=aman983&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman983)](https://github.com/anuraghazra/github-readme-stats)
+</div>
