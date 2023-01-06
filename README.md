@@ -18,6 +18,7 @@
 </h3>
 <div align ="center">
 <img src="https://github.com/aman983/aman983/blob/main/Assets/CPU.gif" width = 200>
+<img src="https://github.com/aman983/aman983/blob/main/Assets/Arduino.gif" width = 150>
 </div>
 
 <br></br>
