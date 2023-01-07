@@ -50,9 +50,9 @@
 </h2>
 <div align ="center">
   <a href="https://linkedin.com/in/Aman-Shaikh-QC"><img src="https://github.com/aman983/aman983/blob/main/Assets/Linkedin.gif" width = 90></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Aman81894910"><img src="https://github.com/aman983/aman983/blob/main/Assets/Twitter.gif" width = 95></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/741610566707052604">
   <img src="https://raw.githubusercontent.com/aman983/aman983/main/Assets/Discord.gif" width = 100></a>
  
