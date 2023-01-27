@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://github.com/aman983/aman983/blob/main/Assets/Source.gif" width = 900>
+  <img src="https://github.com/aman983/aman983/blob/main/Assets/Source.gif" height = 300 width = 700 >
 </p>
-
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+ &nbsp;
 <h2 align="center">
 ⚡ My Skills ⚡
 </h2>
@@ -33,17 +31,6 @@
 <div align ="center">
 <img src="https://github.com/aman983/aman983/blob/main/Assets/Rust.gif" width = 300>
 </div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<h2 align ="center">
-💬 Ask me about 💬 
-</h2>
-<h3 align ="center">
-< <code>Quantum Computing</code> || <code>Embedded Programming</code> || <code>PCB Design & Prototyping</code> || <code>IOT</code> > 
-</h3>
-
-<br></br>
 
 <h2 align ="center">
 📫 How to reach me: 
