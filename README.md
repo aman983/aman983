@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/aman983/aman983/blob/main/Assets/Source.gif" height = 300 width = 700 >
-</p>
- &nbsp;
 <h2 align="center">
 ⚡ My Skills ⚡
 </h2>
