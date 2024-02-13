@@ -1,15 +1,8 @@
 <h2 align="center">
 ⚡ My Skills ⚡
-</h2>
-<h3 align="center">
-<b>  < <code>Quantum Computing</code> || <code>Qiskit</code> || <code>Cirq</code> > </b> 
-<h3>
-<div align ="center">
-<img src="https://github.com/aman983/aman983/blob/main/Assets/Qiskit.gif" width = 200>
-</div>
-<h3 align ="center">
+<h2 align ="center">
 < <code>Embedded Hardware</code> > 
-</h3>
+</h2>
 <div align ="center">
 <img src="https://github.com/aman983/aman983/blob/main/Assets/CPU.gif" width = 200>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
