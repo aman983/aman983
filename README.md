@@ -1,41 +1,25 @@
-<h2 align="center">
-⚡ My Skills ⚡
-<h2 align ="center">
-< <code>Embedded Hardware</code> > 
-</h2>
-<div align ="center">
-<img src="https://github.com/aman983/aman983/blob/main/Assets/CPU.gif" width = 200>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/aman983/aman983/blob/main/Assets/Arduino.gif" width = 150>
-</div>
+<img src="Assets/goku_sunset.gif" alt="My Banner" align="right" width="350"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### Hi there 👋
 
-<h2 align ="center">
-🌱 I’m currently learning 🌱 
-</h2>
-<h3 align ="center">
-< <code>Rust programming</code> >
-</h3>
-<div align ="center">
-<img src="https://github.com/aman983/aman983/blob/main/Assets/Rust.gif" width = 300>
-</div>
+I'm Aman, an Embedded Software Engineer with a passion for low-level development, hardware design, and building real-world tech. Currently diving into Zephyr RTOS, Embedded C, and ARM-based microcontrollers.
 
-<h2 align ="center">
-📫 How to reach me: 
-</h2>
-<div align ="center">
-  <a href="https://linkedin.com/in/Aman-Shaikh-QC"><img src="https://github.com/aman983/aman983/blob/main/Assets/Linkedin.gif" width = 90></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/Aman81894910"><img src="https://github.com/aman983/aman983/blob/main/Assets/Twitter.gif" width = 95></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/741610566707052604">
-  <img src="https://raw.githubusercontent.com/aman983/aman983/main/Assets/Discord.gif" width = 100></a>
- 
- 
-<br></br>
 
-[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=aman983&count_private=true&show_icons=true&theme=highcontrast&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+### 🧰 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Zephyr RTOS](https://img.shields.io/badge/Zephyr-RTOS-purple?style=flat&logo=zephyr&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman983)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+### 📌 Featured Projects
+- [🔧 PCB Design of a compact Wireless Relay Module](https://github.com/aman983/ESP-01S_Relay_Module) – A compact 2 Relay module with WiFi Support.
+- [📟 BareMetal HAL for Atmega32](https://github.com/aman983/Atmega32_BareMetal) – Hardware Abstraction Layer (HAL) for Quick and Reliable firmware Development on Atmega32.
+
+
+### 🤝 Let's Connect!
+- 📫 Email: amanshaikh.it@gmail.com
+---
+
+> “Talk is cheap. Show me the code.” – Linus Torvalds
