@@ -11,7 +11,7 @@ I'm currently doing my **MSc in Embedded Systems at Eindhoven University of Tech
 - **Breaking things:** attacking low-power wireless networks, such as manipulating IEEE 802.15.4 channel access.
 - **Building things:** a secure boot + OTA update chain on the nRF5340, and a low-power BLE/UWB ranging system on Zephyr *(both in progress)*
 
-🎯 **Looking for:** a graduation project (*afstudeeropdracht*) in embedded security or secure firmware, starting Feb 2027.
+🎯 **Looking for:** a graduation project (*afstudeeropdracht*) in IoT, embedded security or secure firmware, starting Feb 2027.
 
 📫 **Reach me:** amanshaikhw@gmail.com
 
